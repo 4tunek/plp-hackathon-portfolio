@@ -1,47 +1,95 @@
-# Personal Portfolio Website
+# 🌐 Personal Portfolio Website
 
-This is a responsive and visually engaging personal portfolio website built with HTML and CSS. It highlights key sections like **Home**, **About**, **Skills**, **Interests**, **Projects**, and **Contact**, offering a modern, clean design and smooth user experience.
+This is a fully responsive personal portfolio website built with **HTML** and **Vanilla CSS**. It includes key sections such as Home, About, Skills, Interests, Projects, and Contact — all styled for both desktop and mobile views.
+
+---
+
+## 🔧 Technologies Used
+
+- **HTML5**
+- **CSS3 (Vanilla)**
+- **Google Fonts** – Poppins
+
+---
+
+## 📁 Project Structure
+
+project-folder/
+│
+├── index.html
+├── style.css
+├── images/
+│ └── [your image assets like profile picture, icons, etc.]
+└── README.md
+
+
+---
 
 ## 🚀 Features
 
-- Fixed, stylish header for easy navigation
-- Responsive layout for different screen sizes
-- Structured sections for:
-  - Introduction and call-to-action
-  - Background and personal summary
-  - Skills cards with colored borders
-  - Interests with hover effects
-  - Project previews with links
-  - Contact form and footer
+- ✅ Responsive design for all screen sizes
+- ✅ Fixed sticky navigation bar
+- ✅ Smooth hover effects and transitions
+- ✅ Background images with blending
+- ✅ Skill cards with color-coded borders
+- ✅ Contact form layout (HTML only)
+- ✅ Footer with social links and copyright
 
-## 🖼️ Preview
+---
 
-![Screenshot](./i)
+## 🧩 Sections Overview
+
+### ✅ **Header**
+- Fixed navigation bar with logo and links
+- Responsive and styled hover states
+
+### 🏠 **Home Section**
+- Background image positioned to the right
+- Welcome text and CTA buttons
+
+### 👤 **About Section**
+- Profile image
+- Brief biography and background info
+
+### 💼 **Skills Section**
+- Grid of cards with icons and labels
+- Color-coded borders for each skill
+
+### 💡 **Interests**
+- Interest cards with hover overlays
+- Styled with `::before` pseudo-elements
+
+### 💻 **Projects**
+- Each project in a card with title, description, and link
+
+### 📬 **Contact**
+- Styled form layout (non-functional)
+- Input fields and send button
+
+### 📎 **Footer**
+- Simple and clean
+- Centered copyright
+
+---
+
+## 🧪 How to Run
+
+1. Clone or download the repository.
+2. Make sure your `index.html` and `style.css` are in the same folder.
+3. Open `index.html` in your browser.
+4. Replace placeholder content (images, texts, links) as needed.
+
+---
+
+## 📬 Contact
+
+Built by [Fortune Obidimalor] – a passionate Web Developer.
+
+---
+
+## 📝 License
+
+This project is free to use, customize, and distribute. No attribution required, but giving credit is appreciated!
 
 
-> Make sure `index.html` and images are placed properly before deployment.
-
-## 📸 Key Styles
-
-- Green (`#0fe03d`) and olive themes for branding
-- Smooth hover transitions and color animations
-- Responsive `flex` layouts for skills and interest sections
-
-## 📬 Contact Form
-
-The contact section includes fields for:
-- Name
-- Email
-- Subject
-- Message
-
-> This is currently a frontend-only form. Use tools like [Formspree](https://formspree.io) or [Netlify Forms](https://docs.netlify.com/forms/setup/) to make it functional.
-
-## 📌 Getting Started
-
-To view the portfolio locally:
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/4tunek/plp-hackathon-portfolio.git
 
