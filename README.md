@@ -19,7 +19,7 @@ project-folder/
 ├── index.html
 ├── style.css
 ├── images/
-│ └── [your image assets like profile picture, icons, etc.]
+│ 
 └── README.md
 
 
